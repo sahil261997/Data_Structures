@@ -1,6 +1,6 @@
 # Data_Structures
 
-This Repo includes basic Topics of Data Structure {Arrays,stack,queue,search,sorting,tree}
+This Repo includes basic Topics of Data Structure {Arrays,stack,queue,stack,hashing,search,sorting,tree}
 
 ``Author : Mast Ram Sharma``
 
