@@ -1,4 +1,5 @@
 # Data_Structures
+
 This Repo includes basic Topics of Data Structure {Arrays,stack,queue,search,sorting,tree}
 
 ``Author : Mast Ram Sharma``
@@ -7,41 +8,48 @@ This Repo includes basic Topics of Data Structure {Arrays,stack,queue,search,sor
 
 Requirements :
  C/C++ Compiler : eg --> VSCode , or any other GUI or Command Line Compiler ;
- 
+
 Topics Covered :
-  * Arrays :
+
+* Arrays :
 
         # arrays.cpp {Basic Introduction}
         # Array_deletion
         # linearSearch
         # Fibonacci.cpp
+        # Reverse.cpp
         # Union_of_2_arrays.cpp
         # Decimal_To_Binary.cpp
         # Decimal_To_Hexadecimal.cpp
-  * Queue :
+* Queue :
 
         # Circular_Queue.cpp
         # Priority_Queue.cpp
         # Queue using Arrays.cpp
         # Queue Using Linked List.cpp
-  * Stack :
+* Stack :
 
         # Balance_parantheses.cpp
         # Evaluation_Postfix.cpp
         # infix_to_postfix.cpp
         # Stack_Using_Array.cpp
         # Stack_using_Linked_list.cpp
-  * Link List :
+* Link List :
 
         # Link_list.cpp
         # doubly-link-list.cpp
         # circular-linked-list.cpp
         # Merge-LinkList.cpp
-  * Search :
+        # reverse_link.cpp
+* Hashing :
+
+        # hashing.cpp
+        {Hashing -> Open Addressing -> Linear Probing :}
+* Search :
 
         # Binary_Search.cpp
         # Linear_search.cpp
-  * Sorting Techniques :
+* Sorting Techniques :
 
         # BubbleSort.cpp
         # HeapSort.cpp
@@ -49,6 +57,6 @@ Topics Covered :
         # MergeSort.cpp
         # QuickSort.cpp
         # SelectionSort.cpp
-  * Trees :
+* Trees :
   
         # BinarySearch.cpp
